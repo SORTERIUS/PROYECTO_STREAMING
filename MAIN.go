@@ -3,8 +3,8 @@
 @fecha: 08/11/2024
 @descripcion: programa de streaming de musica
 */
-package main
-import (
+package 
+Import (
 	fmt
 )
 
